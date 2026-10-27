@@ -19,7 +19,9 @@
 
 // div.appendChild(paragrafo);
 
-document.querySelector("p").innerText = "Esse é o titulo do primeiro paragrafo";
-document.querySelector("p").innerText = "O subtitulo tambem mudou";
-document.querySelector("p").innerText = "O texto foi atualizado";
+document.querySelector("p").innerText = "Mudei o primeiro paragrafo";
+document.querySelector("h1").innerText = "O  titulo tambem mudou";
+
+
+
 
